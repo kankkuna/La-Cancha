@@ -1,0 +1,66 @@
+.grass{
+    background-color:rgb(71, 199, 135);
+    height:510px;
+    position:absolute;
+    width:805px;
+}
+.marco{
+    width:750px;
+    height:450px;
+    border:5px solid white;
+    margin-top:25px;
+    margin-left:25px;
+    margin-bottom:25px;
+    margin-right:25px;
+    position:relative;
+}
+.porteria{
+    width:120px;
+    height:200px;
+    border:4px solid white;
+    display: inline-block;
+    top:130px;
+    bottom:110px;
+    position:relative;
+}
+.uno{
+    margin-left:-5px;
+}
+.dos{
+    margin-left:500px;
+    position:absolute;
+}
+.circulo{
+
+    width:150px;
+     height:150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background:rgb(71, 199, 135);
+     border:5px solid white;
+     margin-left:200px;
+     top: 130px;
+     display:inline-block;
+     position:relative;
+
+
+}
+.objecto{
+    width:25px;
+    height:25px;
+    background-color:white;
+    border-radius:100%;
+    position: absolute;
+}
+.primero{
+    left:100px;
+    top:130px;
+}
+.segundo{
+    left:400px;
+    top:70px;
+}
+.tercero{
+    left:590px;
+    top:290px;
